@@ -1,3 +1,3 @@
 # Warren Challenge
 
-This project is rereading of Warren DEV challenge (https://github.com/warrenbrasil/desafio-warren-web) using only HTML, CSS, Bootstrap and JS
+This project is a rereading of Warren DEV challenge (https://github.com/warrenbrasil/desafio-warren-web) using only HTML, CSS, Bootstrap and JS
